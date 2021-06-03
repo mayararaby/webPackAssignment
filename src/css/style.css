@@ -1,0 +1,9 @@
+.text-style {
+    color: #F2D7D5;
+}
+
+.hello {
+    width: 400px;
+    background: url('../images/loki.jpg');
+    margin: auto;
+}
